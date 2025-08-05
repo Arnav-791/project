@@ -1,2 +1,2 @@
 # project
-my first demo repo works
+my first demo repositories works 
